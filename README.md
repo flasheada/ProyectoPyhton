@@ -1,5 +1,6 @@
 # ProyectoPyhton
 Mi primer proyecto en Python
 
-Autora: Flasheada01
-#Mi primera modificación, jugando.
+#Ahora le vuelvo a agregar el autor.
+#La autora soy yo: flasheada
+#Si, soy yo.
